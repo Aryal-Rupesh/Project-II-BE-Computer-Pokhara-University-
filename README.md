@@ -62,7 +62,6 @@ To set up the project locally, follow these steps:
    git clone https://github.com/Aryal-Rupesh/Project-II-BE-Computer-Pokhara-University-.git  
    
 
-
 ## Example usage
 ```bash 
 python manage.py runserver
